@@ -5,7 +5,6 @@ import perfectionist from 'eslint-plugin-perfectionist'
 import prettier from 'eslint-config-prettier'
 
 export default [
-  // Disable rules conflicting with Prettier
   prettier,
 
   {
